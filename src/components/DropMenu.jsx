@@ -43,7 +43,7 @@ function DropdownMenu() {
 								to="/categoria/electronics"
 								className="block p-3 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
 							>
-								Electronica
+								Categoria
 							</a>
 						</li>
 						<li>
@@ -51,7 +51,7 @@ function DropdownMenu() {
 								to="/categoria/men's clothing"
 								className="block p-3 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
 							>
-								Vestimenta hombre
+								Categoria
 							</a>
 						</li>
 						<li>
@@ -59,7 +59,7 @@ function DropdownMenu() {
 								to="/categoria/jewelery"
 								className="block p-3 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
 							>
-								Joyas
+								Categoria
 							</a>
 						</li>
 						<li>
@@ -67,7 +67,7 @@ function DropdownMenu() {
 								to="/categoria/women's clothing"
 								className="block p-3 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
 							>
-								Vestimenta mujer
+								Categoria
 							</a>
 						</li>
 					</ul>
